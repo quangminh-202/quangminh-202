@@ -1,4 +1,24 @@
-### Hi there 👋
+👋 Hi, I’m Minh (≧∇≦)ﾉ
+ 
+ 🏫 I'm studying at Samara University
+ 
+<!-- - 📫 How to reach me: quangminh01122002@gmail.com -->
+
+***
+
+**About me**
+
+- Facebook: [Trần Quang Minh](https://www.facebook.com/tran.quang.minh.2002)
+
+- Instagram: [quangminh.202](https://www.instagram.com/quangminh.202/)
+
+- Email: <quangminh01122002@gmail.com>
+
+---
+
+<p align="center">
+  <em><strong>Welcome to my planet!</strong></em>
+</p>
 
 <!--
 **quangminh-202/quangminh-202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
