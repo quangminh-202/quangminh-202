@@ -16,9 +16,7 @@
 
 ---
 
-<p align="center">
-  <em><strong>Welcome to my planet!</strong></em>
-</p>
+<h2 align=center>Welcome to my planet!</h2>
 
 <!--
 **quangminh-202/quangminh-202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
