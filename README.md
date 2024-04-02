@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Minh (≧∇≦)ﾉ</h1>
+<h1 align=center>👋 Hi, I’m Minh (≧∇≦)ﾉ</h1>
  
  🏫 I'm studying at Samara University
  
