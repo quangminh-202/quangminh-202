@@ -1,7 +1,6 @@
 <h1 align=center>👋 Hi, I’m Minh (≧∇≦)ﾉ</h1>
  
- <h2 align=center>🏫 I'm from Vietnam![MuaKissGIF](https://github.com/quangminh-202/quangminh-202/assets/109082913/415eef37-6fc0-47e2-aa41-7f642afafa29)
-. I'm studying at Samara University.</h2>
+ <h2 align=center>🏫 I'm from Viet Nam. I'm studying at Samara University.</h2>
  
 <!-- - 📫 How to reach me: quangminh01122002@gmail.com -->
 
