@@ -4,7 +4,7 @@
  
 <!-- - 📫 How to reach me: quangminh01122002@gmail.com -->
 
-<h2 align=center>Welcome to my planet!</h2>
+<h2 align=center>🌱Welcome to my planet!</h2>
 
 <!--**About me**
 
