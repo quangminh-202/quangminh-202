@@ -1,10 +1,10 @@
 <h1 align=center>👋 Hi, I’m Minh (≧∇≦)ﾉ</h1>
  
- <h2 align=center>🏫 I'm from Viet Nam. I'm studying at Samara University.</h2>
+ <h2 align=center>🏫 I'm studying at Samara University.</h2>
  
 <!-- - 📫 How to reach me: quangminh01122002@gmail.com -->
 
-<h2 align=center>🌱Welcome to my planet!</h2>
+<h2 align=center>🌱 Welcome to my planet!</h2>
 
 <!--**About me**
 
