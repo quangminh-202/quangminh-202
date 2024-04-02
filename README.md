@@ -4,9 +4,9 @@
  
 <!-- - 📫 How to reach me: quangminh01122002@gmail.com -->
 
-***
+<h2 align=center>Welcome to my planet!</h2>
 
-**About me**
+<!--**About me**
 
 - Facebook: [Trần Quang Minh](https://www.facebook.com/tran.quang.minh.2002)
 
@@ -15,10 +15,6 @@
 - Email: <quangminh01122002@gmail.com>
 
 ---
-
-<h2 align=center>Welcome to my planet!</h2>
-
-<!--
 **quangminh-202/quangminh-202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
