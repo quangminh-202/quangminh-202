@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />-->
 
 ###
 
@@ -50,6 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/quangminh-202/quangminh-202/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/quangminh-202/quangminh-202/output/snake.svg" alt="Snake animation" />-->
 
 ###
