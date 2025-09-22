@@ -1,4 +1,4 @@
-<h2 align="center">Hi👋, My name is Minh (≧∇≦)ﾉ .<br> I'm from Vietnam :vn: <br>🏫 I'm studying at Samara University.<br>🌱 Welcome to my planet!</h2>
+<h2 align="center">Hi👋, My name is Minh (≧∇≦)ﾉ .<br>🏫 I'm studying at Samara University.<br>🌱 Welcome to my planet!</h2>
 
 ###
 
