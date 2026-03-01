@@ -1,12 +1,12 @@
 <h2 align="center">Hi👋, My name is Minh (≧∇≦)ﾉ .<br>🏫 I'm studying at Samara University.<br>🌱 Welcome to my planet!</h2>
 
 ###
-
+<!--
 <<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=quangminh-202&show_icons=true&theme=radical&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh-202&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
-
+-->
 ###
 <p align="center">
   <img src="https://raw.githubusercontent.com/quangminh-202/quangminh-202/main/giphy.gif" width="400"/>
