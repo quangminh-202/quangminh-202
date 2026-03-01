@@ -8,7 +8,9 @@
 </p>
 
 ###
-<img align="right" height="150" src="[[https://i.imgflip.com/65efzo.gif](https://github.com/quangminh-202/quangminh-202/blob/main/giphy.gif)](https://raw.githubusercontent.com/quangminh-202/quangminh-202/main/giphy.gif)"
+<p align="center">
+  <img src="https://raw.githubusercontent.com/quangminh-202/quangminh-202/main/giphy.gif" width="400"/>
+</p>
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />-->
 
 ###
