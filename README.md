@@ -8,9 +8,9 @@
 </p>
 -->
 ###
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/quangminh-202/quangminh-202/main/giphy.gif" width="400"/>
-</p>
+</p> -->
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />-->
 
 ###
