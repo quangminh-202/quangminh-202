@@ -10,12 +10,9 @@
 
 ### 👋 Hi there, I'm Minh!
 
-> 🏫 Studying **Information Security** at **Samara University** (group 6413-100503D)
+> 🏫 Studying **Information Security** at **Samara University**
 > 🌏 Vietnamese student living in Russia
 > 🔐 Passionate about **cybersecurity**, **digital forensics**, and **low-level programming**
-> 🌱 Currently exploring: Active Directory attacks, buffer overflows, malware analysis
-> ⚡ Fun fact: I debug at midnight and it somehow always works
-
 ---
 
 ### 🛠️ Tech Stack
