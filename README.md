@@ -11,7 +11,9 @@
 ### 👋 Hi there, I'm Minh!
 
 > 🏫 Studying **Information Security** at **Samara University**
+> 
 > 🌏 Vietnamese student living in Russia
+> 
 > 🔐 Passionate about **cybersecurity**, **digital forensics**, and **low-level programming**
 ---
 
