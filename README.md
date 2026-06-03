@@ -57,24 +57,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=quangminh-202&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh-202&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" height="170"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quangminh-202&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-</div>
-
-<div align="center">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh-202&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=quangminh-202&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=quangminh-202&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
