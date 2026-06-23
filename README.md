@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Tran%20Quang%20Minh&fontSize=42&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,11&height=180&section=header&text=Tran%20Quang%20Minh&fontSize=42&fontColor=fff" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=🔐+Cybersecurity+%26+InfoSec+Student;🐍+Python+%7C+C%2B%2B+%7C+JavaScript+%7C+C%23;🛡️+CTF+Enthusiast+%26+Security+Researcher;🌱+Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
@@ -104,6 +104,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=quangminh-202&color=3fb950&style=flat-square&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,11&height=100&section=footer" width="100%"/>
 
 </div>
