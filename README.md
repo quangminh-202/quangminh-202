@@ -13,8 +13,6 @@
 > 🏫 Studying **Information Security** at **Samara University**
 > 
 > 🌏 Vietnamese student living in Russia
-> 
-> 🔐 Passionate about **cybersecurity**, **digital forensics**, and **low-level programming**
 ---
 
 ### 🛠️ Tech Stack
